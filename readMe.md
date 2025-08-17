@@ -1,0 +1,1 @@
+This is a notification service can be integrated with multiple apps.
